@@ -1,0 +1,289 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.11f1 (6a1e21c61430) revision 6954529'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalEducation' Language: 'pt' Physical Memory: 15741 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/2jd/Desktop/Guilherme H. e Giovanna S/BolaBasquete
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+53744
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/2jd/Desktop/Guilherme H. e Giovanna S/BolaBasquete
+C:/Users/2jd/Desktop/Guilherme H. e Giovanna S/BolaBasquete
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [8140] Host "[IP] 192.168.1.193 [Port] 0 [Flags] 2 [Guid] 1184806501 [EditorId] 1184806501 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-08) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [8140] Host "[IP] 192.168.1.193 [Port] 0 [Flags] 2 [Guid] 1184806501 [EditorId] 1184806501 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-08) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.11f1 (6a1e21c61430)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2jd/Desktop/Guilherme H. e Giovanna S/BolaBasquete/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   ATI
+    VRAM:     7870 MB
+    Driver:   30.0.14030.1004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56140
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002964 seconds.
+- Loaded All Assemblies, in  0.399 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.344 seconds
+Domain Reload Profiling: 742ms
+	BeginReloadAssembly (129ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (165ms)
+		LoadAssemblies (125ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (163ms)
+			TypeCache.Refresh (162ms)
+				TypeCache.ScanAssembly (148ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (345ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (290ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (8ms)
+			ProcessInitializeOnLoadAttributes (209ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2jd\Desktop\Guilherme H. e Giovanna S\BolaBasquete\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2jd\Desktop\Guilherme H. e Giovanna S\BolaBasquete\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.813 seconds
+Refreshing native plugins compatible for Editor in 0.64 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.591 seconds
+Domain Reload Profiling: 1401ms
+	BeginReloadAssembly (346ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (39ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (375ms)
+		LoadAssemblies (312ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (174ms)
+			TypeCache.Refresh (148ms)
+				TypeCache.ScanAssembly (134ms)
+			BuildScriptInfoCaches (20ms)
+			ResolveRequiredComponents (4ms)
+	FinalizeReload (591ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (393ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (3ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (33ms)
+			ProcessInitializeOnLoadAttributes (329ms)
+			ProcessInitializeOnLoadMethodAttributes (23ms)
+			AfterProcessingInitializeOnLoad (3ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3148 unused Assets / (0.9 MB). Loaded Objects now: 3711.
+Memory consumption went from 117.2 MB to 116.3 MB.
+Total: 7.632600 ms (FindLiveObjects: 0.853000 ms CreateObjectMapping: 0.679800 ms MarkObjects: 4.804100 ms  DeleteObjects: 1.293700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8940.097274 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset
+  artifactKey: Guid(359af257c0796a24e8450bc3fd72b766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset using Guid(359af257c0796a24e8450bc3fd72b766) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '2d10159894634e2fce58332d0309f79c') in 0.0052911 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.220836 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 1.psd
+  artifactKey: Guid(45a3bdd09985da349ab05ff90e9a07c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 1.psd using Guid(45a3bdd09985da349ab05ff90e9a07c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c124aabf3a1d8348b16e7a83729905e5') in 0.1197758 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 8.png
+  artifactKey: Guid(87cc211eba7f5cd40a1bea498348d223) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 8.png using Guid(87cc211eba7f5cd40a1bea498348d223) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3dfb0767e71bb8477a2e7d4f801cb7bf') in 0.0224323 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 5.psd
+  artifactKey: Guid(f1ff2a300ee95b34dbf09723791079c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 5.psd using Guid(f1ff2a300ee95b34dbf09723791079c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c1b65151857fff01df3b06dce9827edf') in 0.0198584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 2.png
+  artifactKey: Guid(87d43383c7ac5e5409f644f60fb0670e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 2.png using Guid(87d43383c7ac5e5409f644f60fb0670e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '26f3c56121ae2429cca42430fa2a550e') in 0.019713 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 2.psd
+  artifactKey: Guid(3d5909a5272d93d4fb79d140addeb26b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 2.psd using Guid(3d5909a5272d93d4fb79d140addeb26b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '07d4891cb2ad2ec91f29ce2177a2cf5d') in 0.022229 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 4.psd
+  artifactKey: Guid(38e9d0ae6dddf7e46bbe4a088dd527ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 4.psd using Guid(38e9d0ae6dddf7e46bbe4a088dd527ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0a793f3823e4dd3ff4f019f98fc332bb') in 0.0218092 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.896315 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Planet Green.png
+  artifactKey: Guid(b5ca13007d8720a46836dd7fe8256808) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Planet Green.png using Guid(b5ca13007d8720a46836dd7fe8256808) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6af50e40ceb6fddbb757968e6749015f') in 0.0235931 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Planet Ice.png
+  artifactKey: Guid(7c16051c833047d4f89bad60a6284cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Planet Ice.png using Guid(7c16051c833047d4f89bad60a6284cf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '500e6b10c10899e626bc9b92db5ce391') in 0.0230211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Sun Red.png
+  artifactKey: Guid(5e40f94517c356d4c9818df5d226563c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Sun Red.png using Guid(5e40f94517c356d4c9818df5d226563c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '97a7a7c27ba1da4b305ba2c8613ab2db') in 0.0204956 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Sun Blue.png
+  artifactKey: Guid(217e87b607865944b9143e5ae33fdc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Sun Blue.png using Guid(217e87b607865944b9143e5ae33fdc6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'fc7f612286fe1a861480678d54642e3a') in 0.0302043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
