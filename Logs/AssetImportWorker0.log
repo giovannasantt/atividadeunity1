@@ -1,0 +1,1065 @@
+Using pre-set license
+Built from '2023.2/staging' branch; Version is '2023.2.11f1 (6a1e21c61430) revision 6954529'; Using compiler version '193431935'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit ProfessionalEducation' Language: 'pt' Physical Memory: 15741 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.2.11f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/2jd/Desktop/Guilherme H. e Giovanna S/BolaBasquete
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52163
+-job-worker-count
+5
+-background-job-worker-count
+8
+-asset-garbage-collectors
+1
+Successfully changed project path to: C:/Users/2jd/Desktop/Guilherme H. e Giovanna S/BolaBasquete
+C:/Users/2jd/Desktop/Guilherme H. e Giovanna S/BolaBasquete
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [10096] Host "[IP] 192.168.1.33 [Port] 0 [Flags] 2 [Guid] 3362902329 [EditorId] 3362902329 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-08) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [10096] Host "[IP] 192.168.1.33 [Port] 0 [Flags] 2 [Guid] 3362902329 [EditorId] 3362902329 [Version] 1048832 [Id] WindowsEditor(7,PCLAB3-08) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+[Physics::Module] Initialized MultithreadedJobDispatcher with 5 workers.
+Library Redirect Path: Library/
+Refreshing native plugins compatible for Editor in 0.82 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.2.11f1 (6a1e21c61430)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/2jd/Desktop/Guilherme H. e Giovanna S/BolaBasquete/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   ATI
+    VRAM:     7870 MB
+    Driver:   30.0.14030.1004
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56120
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.2.11f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002111 seconds.
+- Loaded All Assemblies, in  0.404 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.367 seconds
+Domain Reload Profiling: 770ms
+	BeginReloadAssembly (136ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (171ms)
+		LoadAssemblies (133ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (169ms)
+			TypeCache.Refresh (167ms)
+				TypeCache.ScanAssembly (155ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (367ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (321ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (8ms)
+			BeforeProcessingInitializeOnLoad (10ms)
+			ProcessInitializeOnLoadAttributes (246ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image C:\Users\2jd\Desktop\Guilherme H. e Giovanna S\BolaBasquete\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\2jd\Desktop\Guilherme H. e Giovanna S\BolaBasquete\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  0.772 seconds
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.623 seconds
+Domain Reload Profiling: 1393ms
+	BeginReloadAssembly (320ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (32ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (366ms)
+		LoadAssemblies (289ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (172ms)
+			TypeCache.Refresh (147ms)
+				TypeCache.ScanAssembly (133ms)
+			BuildScriptInfoCaches (19ms)
+			ResolveRequiredComponents (3ms)
+	FinalizeReload (624ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (430ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (2ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (44ms)
+			ProcessInitializeOnLoadAttributes (354ms)
+			ProcessInitializeOnLoadMethodAttributes (22ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 0.84 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 14 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3148 unused Assets / (1.0 MB). Loaded Objects now: 3713.
+Memory consumption went from 117.5 MB to 116.5 MB.
+Total: 7.087700 ms (FindLiveObjects: 0.462500 ms CreateObjectMapping: 0.421700 ms MarkObjects: 5.080800 ms  DeleteObjects: 1.120800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 5141.401248 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Textures/AFRC_Tex_Emission.png
+  artifactKey: Guid(573a5992a1e562d45a64f56dabbe47ea) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Textures/AFRC_Tex_Emission.png using Guid(573a5992a1e562d45a64f56dabbe47ea) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd79a0ef7a8eabeb24c94c501919777e4') in 0.1391305 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Flat Textures Pack/Materials/Desert_Tiles.mat
+  artifactKey: Guid(0420eef65a9103241abca4e53c4d74bb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Desert_Tiles.mat using Guid(0420eef65a9103241abca4e53c4d74bb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4ade9c3501b53665fa5d47e05aa2c490') in 0.087645 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Asteroids pack/Meshes/Asteroid_1.fbx
+  artifactKey: Guid(a46c36ec5cfaf40a5ab1ac90231bbaab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Meshes/Asteroid_1.fbx using Guid(a46c36ec5cfaf40a5ab1ac90231bbaab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f008070a1be78ebb0697e272075e0e8c') in 0.0661676 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Flat Textures Pack/Textures/Cave_Crystal_A.png
+  artifactKey: Guid(44574b134f468f746bb51c8099e9fddf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Cave_Crystal_A.png using Guid(44574b134f468f746bb51c8099e9fddf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ecedabdb55f5ce2c11dd5ea26ab89884') in 0.0320254 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Flat Textures Pack/Materials/Forest_RiverPebbles.mat
+  artifactKey: Guid(33edbb19ee29c624ab5c9184c95c5f2b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Forest_RiverPebbles.mat using Guid(33edbb19ee29c624ab5c9184c95c5f2b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a08b6dba7a2d6a0a9b023ce08e323aec') in 0.0341831 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Flat Textures Pack/Materials/Desert_Sand.mat
+  artifactKey: Guid(3b85b3f360cf9ec43bec0706d0a03147) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Desert_Sand.mat using Guid(3b85b3f360cf9ec43bec0706d0a03147) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e0441de814c08cf9d1309d156612a8fc') in 0.0309375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Flat Textures Pack/Materials/Winter_Flower.mat
+  artifactKey: Guid(539f75970f8b10e43ace7f872679d0b2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Winter_Flower.mat using Guid(539f75970f8b10e43ace7f872679d0b2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '15950354310a0a779146f97e5d75e707') in 0.031309 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Flat Textures Pack/Materials/Summer_Moss.mat
+  artifactKey: Guid(ee8af93f6543af1418cb59d1c38e78be) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Summer_Moss.mat using Guid(ee8af93f6543af1418cb59d1c38e78be) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e6192d3ef0b4056b9c44660553afcc45') in 0.0300238 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Flat Textures Pack/Materials/Summer_Mud_A.mat
+  artifactKey: Guid(a272687875e64684daa5f944e711872d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Summer_Mud_A.mat using Guid(a272687875e64684daa5f944e711872d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '24899511a9f56c023fee98d24c75339f') in 0.0310189 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Flat Textures Pack/Materials/Summer_CrackedRock.mat
+  artifactKey: Guid(ed77080e081fcf6498c2325430f2191f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Summer_CrackedRock.mat using Guid(ed77080e081fcf6498c2325430f2191f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9842214f35b89401f6ea61a1e41640c2') in 0.0322194 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car.prefab
+  artifactKey: Guid(c4cad50aa03bbca42938fe318344950b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (Meshes Only)/Free Racing Car.prefab using Guid(c4cad50aa03bbca42938fe318344950b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5f5e360beaeed3081d86dc963b1fb4b6') in 0.0226075 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Flat Textures Pack/Textures/Summer_Dirt_A.png
+  artifactKey: Guid(14833b0b08b0a6945b0dd4f86360fe01) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Summer_Dirt_A.png using Guid(14833b0b08b0a6945b0dd4f86360fe01) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '41e47d13f24021903c654995acd394c7') in 0.0334197 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Flat Textures Pack/Textures/Summer_ForestRoad.png
+  artifactKey: Guid(5ba259208ad985146a301e08de183a3f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Summer_ForestRoad.png using Guid(5ba259208ad985146a301e08de183a3f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8ab1f8929d5610695fbce3325afcc97c') in 0.0348694 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Flat Textures Pack/Textures/Summer_Roots.png
+  artifactKey: Guid(9160bb514caa5e641a0fc34cd91ce0f9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Summer_Roots.png using Guid(9160bb514caa5e641a0fc34cd91ce0f9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '346001bb6849e17e12994bf652588c43') in 0.0348166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Flat Textures Pack/Materials/Cave_FireGround.mat
+  artifactKey: Guid(058595cb07ad23946a0a151be620489b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Cave_FireGround.mat using Guid(058595cb07ad23946a0a151be620489b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '842f611ed734b380bb408dd0c7512aaf') in 0.0342259 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Flat Textures Pack/Textures/Summer_Flowers.png
+  artifactKey: Guid(0d0a4eda378924a488fc68a509785635) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Summer_Flowers.png using Guid(0d0a4eda378924a488fc68a509785635) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e5701bd3bf89874008c72fe653fe2956') in 0.0345148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000082 seconds.
+  path: Assets/Flat Textures Pack/Textures/Cave_Bush.png
+  artifactKey: Guid(f66cf91fe79cffe4bbe6a155e61e4bb7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Cave_Bush.png using Guid(f66cf91fe79cffe4bbe6a155e61e4bb7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '81ebefbf5a16ee3fc0bf726f3e12a7b1') in 0.0350079 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Flat Textures Pack/Textures/Summer_Mud_B.png
+  artifactKey: Guid(12cde8a4716b7ba4198829c1cede3e17) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Summer_Mud_B.png using Guid(12cde8a4716b7ba4198829c1cede3e17) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'dbd740e43b3bd1e0591c4b4357466d1c') in 0.0260669 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Meshes/ARCADE - FREE Racing Car.fbx
+  artifactKey: Guid(9ec6a8fc6925acb4abc5500eeecb8270) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Meshes/ARCADE - FREE Racing Car.fbx using Guid(9ec6a8fc6925acb4abc5500eeecb8270) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0ed09b17b41862beedf0f480497e7d33') in 0.0420917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 34
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Flat Textures Pack/Materials/Summer_Grass_A.mat
+  artifactKey: Guid(fe40329174e9720479ab77410cc459ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Summer_Grass_A.mat using Guid(fe40329174e9720479ab77410cc459ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a73b62c2ef2d1dbd88efcf33684d0d8c') in 0.025884 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Scenes/Night.unity
+  artifactKey: Guid(41342515ad832b347ab0e66f5c35c279) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Scenes/Night.unity using Guid(41342515ad832b347ab0e66f5c35c279) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4bba56947513076e0f223596a991ad91') in 0.0211273 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Flat Textures Pack/Textures/Summer_RiverPebbles.png
+  artifactKey: Guid(0850fbb36b5346249a2687f29aa97e58) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Summer_RiverPebbles.png using Guid(0850fbb36b5346249a2687f29aa97e58) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f92115774690a1f954793e5f3298517a') in 0.0247935 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000069 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Purple Variant.prefab
+  artifactKey: Guid(62010132604e8c94d96b4cb4fe6d3394) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Prefabs (With Colliders)/Free Racing Car Purple Variant.prefab using Guid(62010132604e8c94d96b4cb4fe6d3394) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '06dbb4c5c0dc50b06c4053b5849733cf') in 0.038492 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 102
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Asteroids pack/Meshes/Asteroid_4.fbx
+  artifactKey: Guid(de0ade0b8b7154794bb1dbc5193ef21e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Meshes/Asteroid_4.fbx using Guid(de0ade0b8b7154794bb1dbc5193ef21e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1a61c05ad4dc79eeedbe23b772fc976d') in 0.0310955 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Flat Textures Pack/Materials/WInter_Snow_Rocks.mat
+  artifactKey: Guid(a080f7b6b977d1d478336b9f12f52fdd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/WInter_Snow_Rocks.mat using Guid(a080f7b6b977d1d478336b9f12f52fdd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b9c930957f882cd12a1f2470b8f2e78d') in 0.0324874 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Flat Textures Pack/Textures/Cave_Magma_B.png
+  artifactKey: Guid(f3f73fae8b0080b4b8c78a03d205b2e2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Cave_Magma_B.png using Guid(f3f73fae8b0080b4b8c78a03d205b2e2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9efec250e6274f8585df0f643ef2e8bd') in 0.0296597 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000077 seconds.
+  path: Assets/Asteroids pack/Meshes/Asteroid_2.fbx
+  artifactKey: Guid(5b3fffef11ac2450c9a33d4371fbbe64) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Meshes/Asteroid_2.fbx using Guid(5b3fffef11ac2450c9a33d4371fbbe64) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'abe0348fda8b99e924f8cbb24da60b52') in 0.0385108 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Flat Textures Pack/Textures/Winter_FrozenGround.png
+  artifactKey: Guid(e2acd3ed2fb446544a34b648341c93fd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Winter_FrozenGround.png using Guid(e2acd3ed2fb446544a34b648341c93fd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e218f203cfd0e8dc661e83882955ac28') in 0.02766 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Scenes/example_bkg_2.unity
+  artifactKey: Guid(4f4e63e81390a4142a1be673e17e8d4e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Scenes/example_bkg_2.unity using Guid(4f4e63e81390a4142a1be673e17e8d4e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5d38baab0adf70ab6dbd6c73bddd6345') in 0.0263834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Asteroids pack/Textures/Texture 2/Asteroid_AO_2.png
+  artifactKey: Guid(b1f5fab542f59464391554a582102411) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Textures/Texture 2/Asteroid_AO_2.png using Guid(b1f5fab542f59464391554a582102411) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b7e7d06adcf283f58189f7e03819abd4') in 0.0294793 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000107 seconds.
+  path: Assets/Flat Textures Pack/Textures/Winter_Hardsnow.png
+  artifactKey: Guid(fe04479d93e6897438d3c2856a88b89e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Winter_Hardsnow.png using Guid(fe04479d93e6897438d3c2856a88b89e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4665e78913852d959f1a0f25c4ab8a9d') in 0.0328539 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Flat Textures Pack/Textures/WInter_Snow_Rocks.png
+  artifactKey: Guid(f4a36263be3bcb547881e084946baece) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/WInter_Snow_Rocks.png using Guid(f4a36263be3bcb547881e084946baece) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'feb345a239b6d4723dc03c640e0f2234') in 0.0271706 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000078 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Scripts/ParallaxPlane.cs
+  artifactKey: Guid(6a561d7b90e851e4c974fb887ac73de8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Scripts/ParallaxPlane.cs using Guid(6a561d7b90e851e4c974fb887ac73de8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8618649ef6b2da5fa7fad8e8e0d9b20a') in 0.0140526 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000118 seconds.
+  path: Assets/Asteroids pack/Textures/Texture 1/Asteroid_NP.png
+  artifactKey: Guid(7fe9124c39dc84fcdac67880825ff1e6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Textures/Texture 1/Asteroid_NP.png using Guid(7fe9124c39dc84fcdac67880825ff1e6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '473573538a2882dad1f7f72bb4c8c767') in 0.0313863 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000098 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Materials/Color Variations/AFRC_Mat_Col3.mat
+  artifactKey: Guid(c4c2ee3e832cffd48bb9d156c2b21376) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Materials/Color Variations/AFRC_Mat_Col3.mat using Guid(c4c2ee3e832cffd48bb9d156c2b21376) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ed17421d6768a6e1248a844267f0df4e') in 0.0348613 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Asteroids pack/Textures/Texture 2/Asteroid_tex.png
+  artifactKey: Guid(f0361ceb6d7564d5b8a9fbd7d0f18897) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Textures/Texture 2/Asteroid_tex.png using Guid(f0361ceb6d7564d5b8a9fbd7d0f18897) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '920f602371906e3d24ed636888ea925c') in 0.0312482 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000073 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Textures/Color Variations/AFRC_Tex_Col5.png
+  artifactKey: Guid(ee5f07cb504e5b04dbdd32ef7d265c72) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Textures/Color Variations/AFRC_Tex_Col5.png using Guid(ee5f07cb504e5b04dbdd32ef7d265c72) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '967e25ade6966572f8de91cae871498d') in 0.0308278 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Flat Textures Pack/Materials/Winter_Snow_B.mat
+  artifactKey: Guid(00494841d457c5e40beb347b6483f7c9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Winter_Snow_B.mat using Guid(00494841d457c5e40beb347b6483f7c9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3e6c5ecf428730689979675588239a56') in 0.0270395 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Flat Textures Pack/Materials/Cave_Cracks.mat
+  artifactKey: Guid(7f61e96487dd8084480def67ee56f766) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Cave_Cracks.mat using Guid(7f61e96487dd8084480def67ee56f766) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '10222375cd96662391e37bc6c10aea7c') in 0.0368279 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Flat Textures Pack/Materials/Summer_ForestRoad.mat
+  artifactKey: Guid(55d9b8c647ad2ba4899329faec1273da) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Summer_ForestRoad.mat using Guid(55d9b8c647ad2ba4899329faec1273da) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3a2970210952414c22b0073a2e167d0f') in 0.0240796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Flat Textures Pack/Materials/Summer_Wall.mat
+  artifactKey: Guid(0acfe541cc046384d9e49c053de97ffb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Summer_Wall.mat using Guid(0acfe541cc046384d9e49c053de97ffb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '39a531fed5d845691e57105056d978d9') in 0.0327991 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Flat Textures Pack/Textures/Water_B.png
+  artifactKey: Guid(d149f4b0f0a25fa41b1eca641bda9618) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Water_B.png using Guid(d149f4b0f0a25fa41b1eca641bda9618) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7c37404c01ae069649825e1816df3404') in 0.0312298 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000090 seconds.
+  path: Assets/Flat Textures Pack/Textures/Winter_IceCliff.png
+  artifactKey: Guid(e9f0a30aa83fca9418d176218fd919b1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Winter_IceCliff.png using Guid(e9f0a30aa83fca9418d176218fd919b1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8cef12bc11f1627397c154f14306900a') in 0.0309837 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/Materials/black8x8.mat
+  artifactKey: Guid(525d17754390c9948b3d90b65368abac) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/Materials/black8x8.mat using Guid(525d17754390c9948b3d90b65368abac) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fd47dd9ae2869811f074b13b25224121') in 0.0310533 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Shaders/SpriteBlending/Sprites-Overlay.shader
+  artifactKey: Guid(5886876ece3a4444cb5f9bf26cd2d2cc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Shaders/SpriteBlending/Sprites-Overlay.shader using Guid(5886876ece3a4444cb5f9bf26cd2d2cc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2ed23ae7cad7905863cc9d65ec4c682c') in 0.0203803 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000125 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Shaders/Materials/Sprites-Normal.mat
+  artifactKey: Guid(2f069fc50db2ee34cb6466412a935d93) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Shaders/Materials/Sprites-Normal.mat using Guid(2f069fc50db2ee34cb6466412a935d93) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '683d0c8fc1af3136b21f880c34d2d627') in 0.026918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 7.png
+  artifactKey: Guid(4054d43e726579f47a011bfa3d2c0445) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 7.png using Guid(4054d43e726579f47a011bfa3d2c0445) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '74445ff18970f22dc249fe90b916bbb5') in 0.0404566 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 8.psd
+  artifactKey: Guid(8781fb9953d570c4093f4e1896cc6446) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 8.psd using Guid(8781fb9953d570c4093f4e1896cc6446) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c82d5fd70690a17288ed425e3f0bca2a') in 0.0352558 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000097 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 8.png
+  artifactKey: Guid(87cc211eba7f5cd40a1bea498348d223) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 8.png using Guid(87cc211eba7f5cd40a1bea498348d223) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c593252e994eac372dd8e19659354743') in 0.0373808 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 3.png
+  artifactKey: Guid(74459fc301916fc4aa57ab3132bc5f3d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 3.png using Guid(74459fc301916fc4aa57ab3132bc5f3d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '27907ead5cf8d7cb7a8b41736b619910') in 0.0387983 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Skybox/Night/Textures/Middle.png
+  artifactKey: Guid(0dbf12657f27a3643a08e61b84c12483) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Skybox/Night/Textures/Middle.png using Guid(0dbf12657f27a3643a08e61b84c12483) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '71393866ffe32c1590fdd6389f8ecab9') in 0.0264198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Scripts/Editor/SpriteParallaxEditor.cs
+  artifactKey: Guid(d37d654e1c610bc4795442db0c41c9fc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Scripts/Editor/SpriteParallaxEditor.cs using Guid(d37d654e1c610bc4795442db0c41c9fc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '44e23d93fb7ca7a045501eaf0ec53182') in 0.0146332 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Asteroids pack/Textures/Texture 5/Asteroid_5_NP.png
+  artifactKey: Guid(c8c86790cdf0b4941a3213d51931cb19) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Textures/Texture 5/Asteroid_5_NP.png using Guid(c8c86790cdf0b4941a3213d51931cb19) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0fd6b84e6a057f1b84c4485b2868e23a') in 0.0311783 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Shaders/Materials/Sprites-Darken.mat
+  artifactKey: Guid(a1c16518c18152143ae2dff0039918b2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Shaders/Materials/Sprites-Darken.mat using Guid(a1c16518c18152143ae2dff0039918b2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3fa98787cad22b7f90c8d85c8fdc4ae6') in 0.0182523 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Skybox/Day/Textures/Middle.png
+  artifactKey: Guid(1547f812d72e8dc41aeb23f1ca2d0f49) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Skybox/Day/Textures/Middle.png using Guid(1547f812d72e8dc41aeb23f1ca2d0f49) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5cfe973286649bf6472da397a630bc7a') in 0.0373909 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000124 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Shaders/SpriteBlending/Sprites-Screen.shader
+  artifactKey: Guid(dc85c36d7f36ac04991e46af5251a538) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Shaders/SpriteBlending/Sprites-Screen.shader using Guid(dc85c36d7f36ac04991e46af5251a538) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'de0a43995563723706bfb022b73643a7') in 0.0159414 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Skybox/Night/Textures/Bottom.png
+  artifactKey: Guid(e5ebd597679525a438f3f1e01f33e8e1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Skybox/Night/Textures/Bottom.png using Guid(e5ebd597679525a438f3f1e01f33e8e1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '285ce96633e5576e360ef414d27f5167') in 0.0279639 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000112 seconds.
+  path: Assets/Asteroids pack/Textures/Texture 4/Asteroid_4_AO.png
+  artifactKey: Guid(25ac4e5d6613f429f84e555afd655fab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Textures/Texture 4/Asteroid_4_AO.png using Guid(25ac4e5d6613f429f84e555afd655fab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cfc63a066755a83b2c795313d044f5fa') in 0.0283617 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Shaders/Materials/UI-TouchPad.mat
+  artifactKey: Guid(9f02ec5ce59dd664a9cbb913aeb14b80) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Shaders/Materials/UI-TouchPad.mat using Guid(9f02ec5ce59dd664a9cbb913aeb14b80) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2f8de0fc7561495de68e463cf7455160') in 0.0148538 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e1721d7924fe1a00e40ee4ccf8ee46be') in 0.0215368 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Scenes/example_bkg_9_test.unity
+  artifactKey: Guid(d2c88698c954cd24b8628bc6673aeaca) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Scenes/example_bkg_9_test.unity using Guid(d2c88698c954cd24b8628bc6673aeaca) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6b1f113729f8978bf7a9bc4a3d581007') in 0.0263387 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 4/Bkg 4 Meteors.png
+  artifactKey: Guid(3314a5b763cc8114daed297a43dab1eb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 4/Bkg 4 Meteors.png using Guid(3314a5b763cc8114daed297a43dab1eb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '50c3e9a6ed2a0a6f6bbdcd6159271e0c') in 0.0415905 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 2/Bkg 2 Nebula.png
+  artifactKey: Guid(5761f216ea978704194f8de7cf583c20) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 2/Bkg 2 Nebula.png using Guid(5761f216ea978704194f8de7cf583c20) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd4011c8ba881eca932184ca2ac8c8ed3') in 0.0397373 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 7/Bkg 7 Middle Stars.png
+  artifactKey: Guid(24f2ed08252e8c346b73a2e9edb0bf3c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 7/Bkg 7 Middle Stars.png using Guid(24f2ed08252e8c346b73a2e9edb0bf3c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6ad576a73db9b2e179ff046afba78333') in 0.0450408 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Planet Stone.png
+  artifactKey: Guid(bc15aeffc8215874193d8dcf82239b12) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Planet Stone.png using Guid(bc15aeffc8215874193d8dcf82239b12) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fdfd918e75e78f4560aaa19d07b2fc10') in 0.0400603 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 1/Bkg 1 Star Small.png
+  artifactKey: Guid(48817a978d31f844e9e880136bce169f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 1/Bkg 1 Star Small.png using Guid(48817a978d31f844e9e880136bce169f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '743bdc996253b455b66a87f8d1264ec3') in 0.0400553 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 7/Bkg 7 Big Stars.png
+  artifactKey: Guid(5248e1fbe232ea64eb3248a70c34081c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 7/Bkg 7 Big Stars.png using Guid(5248e1fbe232ea64eb3248a70c34081c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd5f27882674a1755bd2f7e482283f67e') in 0.0415052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 6/Bkg 6 Planet.png
+  artifactKey: Guid(32272399172ea0240847fc32923d2ce5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 6/Bkg 6 Planet.png using Guid(32272399172ea0240847fc32923d2ce5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6f3e0e17846e1bbd7065f4e52de5dbd8') in 0.0383117 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 1/Bkg 1 Star Middle.png
+  artifactKey: Guid(b4254534970bb5d42ba66132821934a4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 1/Bkg 1 Star Middle.png using Guid(b4254534970bb5d42ba66132821934a4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '21cfe64d1d9cf4e70a6c6d4c8c7e33b3') in 0.039709 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 6/Bkg 6 Small Stars.png
+  artifactKey: Guid(bd3a72c6645320e478c7a62e67e27b1f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 6/Bkg 6 Small Stars.png using Guid(bd3a72c6645320e478c7a62e67e27b1f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bc40c0e0dc17682db870fd6ae7e0026e') in 0.041534 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 6/Bkg 6 Star Middle.png
+  artifactKey: Guid(ab6dca812b531e740aed19a785eda7fe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 6/Bkg 6 Star Middle.png using Guid(ab6dca812b531e740aed19a785eda7fe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd328c627578430c456cf030ef6958f7e') in 0.0433553 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Planet Maker.psd
+  artifactKey: Guid(3ec675d224babdb4096fd22ad9e7a080) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Planet Maker.psd using Guid(3ec675d224babdb4096fd22ad9e7a080) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4a62865e4084f241a8035df070304ddc') in 0.0411288 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 5/Bkg 5 Nebula.png
+  artifactKey: Guid(c928d1f6da8fb67419cfdfbbe75c3b3f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 5/Bkg 5 Nebula.png using Guid(c928d1f6da8fb67419cfdfbbe75c3b3f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '255c8425f5466fcd10b3c3fd75816aee') in 0.0381497 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 4/Bkg 4 Stars Big.png
+  artifactKey: Guid(2dd98d00f09229442b21a20c57e3fdfe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 4/Bkg 4 Stars Big.png using Guid(2dd98d00f09229442b21a20c57e3fdfe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'eb313781c7a6cf97847ff6f33988f183') in 0.041909 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 7/Bkg 7 Sun.png
+  artifactKey: Guid(dedf03c384791c641b8de80c38b54026) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 7/Bkg 7 Sun.png using Guid(dedf03c384791c641b8de80c38b54026) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '50f01ef9997db7cc294f5fc6f88a68d5') in 0.0463236 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 8/Bkg 8 Meteor.png
+  artifactKey: Guid(684c4b7d965252244982683be27eb8f8) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 8/Bkg 8 Meteor.png using Guid(684c4b7d965252244982683be27eb8f8) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '222a5648edbcca387de30fe703aeb919') in 0.0407593 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 8/Bkg 8 Star Middle.png
+  artifactKey: Guid(2e93525f17ea6634da674662412f06db) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 8/Bkg 8 Star Middle.png using Guid(2e93525f17ea6634da674662412f06db) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3b0e484ad12575d55c48a2529cdbc770') in 0.0467988 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 3/Bkg 3 Sun.png
+  artifactKey: Guid(d35c0e27637a96647bca8eaeebf9eafd) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 3/Bkg 3 Sun.png using Guid(d35c0e27637a96647bca8eaeebf9eafd) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6d8175d6fef6bb0ee0d5957ba9bd341e') in 0.0449918 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000062 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 1/Bkg 1 Big Stars.png
+  artifactKey: Guid(4286c5cb937637c4dbd0a04aece88f34) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 1/Bkg 1 Big Stars.png using Guid(4286c5cb937637c4dbd0a04aece88f34) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c08442f9ba0aad8cfa7fef08b5632017') in 0.0453576 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Flat Textures Pack/Materials/Cave_Poison.mat
+  artifactKey: Guid(8c2a02727fd639347bf1e97df0a962b1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Cave_Poison.mat using Guid(8c2a02727fd639347bf1e97df0a962b1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '86be7cb019a8e3baba858c2ecc393995') in 0.0342784 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Flat Textures Pack/Textures/Desert_Bushes.png
+  artifactKey: Guid(374f043a3f99333449e20804007556c2) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Desert_Bushes.png using Guid(374f043a3f99333449e20804007556c2) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd3cb1c5fda7fa863072aff4436dc4747') in 0.0236835 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000080 seconds.
+  path: Assets/Flat Textures Pack/Textures/Winter_Flower.png
+  artifactKey: Guid(cc7b23b24df12264a97f682f65915163) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Winter_Flower.png using Guid(cc7b23b24df12264a97f682f65915163) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9e09e1655d9f239920f76a115037fd5d') in 0.0266998 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000066 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/black8x8.png
+  artifactKey: Guid(431579c735167444382df85d05be78fc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/black8x8.png using Guid(431579c735167444382df85d05be78fc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '12a39056918967ec4f1398f7fdbe8172') in 0.0269333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Asteroids pack/Meshes/Asteroid_3.fbx
+  artifactKey: Guid(2111b6ad5e475457587cca11988811e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Asteroids pack/Meshes/Asteroid_3.fbx using Guid(2111b6ad5e475457587cca11988811e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b49e117e26e4dab4a1dcae0084bcaae5') in 0.0280666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Scripts/TopMenuController.cs
+  artifactKey: Guid(c6ea1d4c97ffd2f4fa04a0a29123d51e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Scripts/TopMenuController.cs using Guid(c6ea1d4c97ffd2f4fa04a0a29123d51e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b7e9850eba3dc4e2d4468c8174200bc6') in 0.0136351 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000131 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Sun Red.png
+  artifactKey: Guid(5e40f94517c356d4c9818df5d226563c) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/PLANETS/Sun Red.png using Guid(5e40f94517c356d4c9818df5d226563c) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6cb546101db75737cbf8e2b32b378c5c') in 0.0335748 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 7.psd
+  artifactKey: Guid(e325d584f35c8154cb66713afa721682) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Background 7.psd using Guid(e325d584f35c8154cb66713afa721682) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cb70190c2196d10f3e92b1089da52057') in 0.0376731 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Flat Textures Pack/Textures/Winter_IceCave.png
+  artifactKey: Guid(4a3e8f1cd37ac564f8f0c0a80b080c37) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Winter_IceCave.png using Guid(4a3e8f1cd37ac564f8f0c0a80b080c37) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e9ea5fe5a8c59a53d6c79dd5172aee08') in 0.0257007 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Skybox/Day/Textures/Top.png
+  artifactKey: Guid(0ea79d67094ea414ca3f589eeac91a52) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Skybox/Day/Textures/Top.png using Guid(0ea79d67094ea414ca3f589eeac91a52) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6f31d9f1ff6d42d244ee9f110414c3ea') in 0.0309615 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Flat Textures Pack/Materials/Water_A.mat
+  artifactKey: Guid(09b830498de6c894ead635fafa7d6b81) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Water_A.mat using Guid(09b830498de6c894ead635fafa7d6b81) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '35684ef094888b835017fbf90d8e4852') in 0.0248039 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/ARCADE - FREE Racing Car/Materials/Color Variations/AFRC_Mat_Col1.mat
+  artifactKey: Guid(07f44fe3e9c462146a7769b976c50ec4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/ARCADE - FREE Racing Car/Materials/Color Variations/AFRC_Mat_Col1.mat using Guid(07f44fe3e9c462146a7769b976c50ec4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cc71fa3867765cdabab66f8bd6b9904e') in 0.0246821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Flat Textures Pack/Materials/Summer_Dirt_A.mat
+  artifactKey: Guid(865b305109e555749a4c8609b545998d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Materials/Summer_Dirt_A.mat using Guid(865b305109e555749a4c8609b545998d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '11ce34230a206eb0f841ee3505d07293') in 0.0247764 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Flat Textures Pack/Textures/Cave_LavaRocks_A.png
+  artifactKey: Guid(a36ddfdef00715d48be4ba9fb4e538ae) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Cave_LavaRocks_A.png using Guid(a36ddfdef00715d48be4ba9fb4e538ae) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e5670d61098926cf87219bd0877845b2') in 0.028148 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000091 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Brushes.abr
+  artifactKey: Guid(00b8d41c003e23a4884676bca2486eba) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/Space Brushes.abr using Guid(00b8d41c003e23a4884676bca2486eba) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '01b9ca686ca956a8f0cc719592da7989') in 0.0122849 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000148 seconds.
+  path: Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 3/Bkg 3 Big Stars.png
+  artifactKey: Guid(6171c5a02b08b2b4a81847a38e575313) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Space Backgroung Parallax Maker Asset/Sprites/BackGrounds/BKG LAYERS PNG/BKG 3/Bkg 3 Big Stars.png using Guid(6171c5a02b08b2b4a81847a38e575313) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e3dfca69d75c86579a07cd64c3d4661c') in 0.0414563 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Flat Textures Pack/Textures/Winter_Wall.png
+  artifactKey: Guid(55d9b7c24bcff144192b2c1889dbc798) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Flat Textures Pack/Textures/Winter_Wall.png using Guid(55d9b7c24bcff144192b2c1889dbc798) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter)Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '596c99abda41be58893b9d9d5d29ecf6') in 0.0259472 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
