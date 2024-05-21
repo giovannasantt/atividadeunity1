@@ -36,38 +36,46 @@ Giovanna Santana; Guilherme Henrique - 2 Jogos
 
 ## Adicionando Física - Primeiro passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/b2e2d6a8-7832-4b31-91b4-f3cd5ed881bb)
-- Para adiconar a Fisica Primeiro temos que clicar na aba assets na barra de tarefas localizada na parte de cima da tela() 
+- Para adiconarmos a Fisica Primeiro tivemoos que clicar na aba assets na barra de tarefas localizada na parte de cima da tela() 
 
 ## Adicionando Física - Segundo passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/a6099c5a-62a4-4396-8060-6a63fb087619)
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/861be9a8-67bc-4119-9f82-7578409f17ef)
 - Depois clicar na opção create
-- Procurar a barra de physic material 
+- Usamos a opção physic material que cria um material para adicionar a fisica 
 
 ## Adicionando Física - Terceiro passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/86942824-3a04-44af-834f-6fe6e8e58727)
-![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/a73d8964-6fa5-4a72-96d2-78406f44678a)
+![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/5377452b-1e98-4e76-8088-8da514a05fc0)
 
+- Comfiguramos a fisica
 
 ## Adicionando Física - Quarto passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/799b4b50-6b0d-4288-8181-04c6772cf988)
+- Adicionando a massa do objeto
+- 
+## Finalizando o Projeto - Gravação chão
+https://github.com/giovannasantt/atividadeunity1/assets/160945639/ded6b041-7017-46f0-b471-69be19e90dc9
 
+- gravando o chão para verificar a fisica
+- 
 ## Finalizando o Projeto - Ajustando câmera
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/ab033096-b65a-4955-a9d6-f7bb7b1d9973)
 
-## Finalizando o Projeto - Gravação chão
+-ajustando a posição da camera para uma melhor demonstração final 
 
 
-https://github.com/giovannasantt/atividadeunity1/assets/160945639/ded6b041-7017-46f0-b471-69be19e90dc9
-
-- gravando o chão para verificar a fisica 
 ## Finalizando o Projeto - Gravação final
-
-
 
 https://github.com/giovannasantt/atividadeunity1/assets/160945639/dab3b261-9084-4f55-86ed-bf72594b6d55
 
-- Reusultado final do projeto 
+- Reusultado final do projeto
+
+  ## Obs:
+  ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/805579e8-a55b-4e2d-af27-76775482dced)
+  - O arquivo será enviado por meio de uma pasta compacta no drive, pois é muito grande para o GitHub.
+  https://drive.google.com/file/d/1RSOsZuwvLiqhdQeQCDkkG9ccHVUsJF3e/view?usp=drive_link
+
 
 
 
