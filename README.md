@@ -32,7 +32,7 @@ Giovanna Santana; Guilherme Henrique - 2 Jogos
 
 ## Criação - Quinto passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/c5be90aa-8899-45b6-b957-2be05b46f542)
-- Trocou o fundo para noite para parecer mais com o espaço e adicionou shaders para mudar o ceú deixando com estrelas e mudou o sol o deixando mais visivel
+- Trocou o fundo para noite para parecer mais com o espaço e adicionou shaders para mudar o ceu deixando com estrelas e mudou o sol o deixando mais visivel
 
 ## Adicionando Física - Primeiro passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/b2e2d6a8-7832-4b31-91b4-f3cd5ed881bb)
