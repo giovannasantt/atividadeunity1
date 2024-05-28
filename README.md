@@ -67,9 +67,13 @@ https://github.com/giovannasantt/atividadeunity1/assets/160945639/ded6b041-7017-
 
 ## Finalizando o Projeto - Gravação final
 
-https://github.com/giovannasantt/atividadeunity1/assets/160945639/dab3b261-9084-4f55-86ed-bf72594b6d55
 
-- Reusultado final do projeto
+https://github.com/giovannasantt/atividadeunity1/assets/160945639/0766064c-df90-4bee-8ef3-2ef8423a430e
+
+
+
+
+- Resultado final do projeto
 
   ## Obs:
   ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/805579e8-a55b-4e2d-af27-76775482dced)
