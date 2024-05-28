@@ -24,7 +24,7 @@ Giovanna Santana; Guilherme Henrique - 2 Jogos
 
 ## Criação - terceiro passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/089b41ce-3b75-4f04-b1f9-d0a325daac50)
-- Adicionando os planetas para compor o cenário.
+- Adicionando os planetas para compor o cenário que pegamos na unity store
 
 ## Criação - Quarto passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/0fdad012-ff01-42a6-bc93-5543c5a6effe)
