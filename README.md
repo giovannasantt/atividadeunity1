@@ -41,8 +41,8 @@ Giovanna Santana; Guilherme Henrique - 2 Jogos
 ## Adicionando Física - Segundo passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/a6099c5a-62a4-4396-8060-6a63fb087619)
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/861be9a8-67bc-4119-9f82-7578409f17ef)
-- Depois clicar na opção create
-- Usamos a opção physic material que cria um material para adicionar a fisica 
+- Depois clicar na opção create(Cria materiais para adicionar no projeto)
+- Usamos a opção physic material que cria um material para adicionar a fisica(Cria um "objeto" que adiciona física a outros objetos do projeto 
 
 ## Adicionando Física - Terceiro passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/86942824-3a04-44af-834f-6fe6e8e58727)
