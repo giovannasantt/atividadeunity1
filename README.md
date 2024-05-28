@@ -48,7 +48,7 @@ Giovanna Santana; Guilherme Henrique - 2 Jogos
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/86942824-3a04-44af-834f-6fe6e8e58727)
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/5377452b-1e98-4e76-8088-8da514a05fc0)
 
-- Configuramos a fisica utilizando as configurações <BR/>
+- Configuramos a fisica utilizando as configurações: <BR/>
 Dynamic Friction:  <BR/>
 Static Friction:  <BR/>
 Bouncines:  <BR/>
@@ -58,7 +58,7 @@ Friction Combine:  <BR/>
 
 ## Adicionando Física - Quarto passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/799b4b50-6b0d-4288-8181-04c6772cf988)
-- Adicionando a massa do objeto adicionando um componente no objeto chamado Rigidbody que faz o objeto se mover de acordo das configurações aplicadas anteriormente,
+- Adicionando a massa do objeto adicionando um componente no objeto chamado Rigidbody que faz o objeto se mover de acordo das configurações aplicadas anteriormente, e para colocar massa no objeto alteramos a opçao mass
   
 ## Finalizando o Projeto - Gravação chão
 https://github.com/giovannasantt/atividadeunity1/assets/160945639/ded6b041-7017-46f0-b471-69be19e90dc9
