@@ -48,7 +48,10 @@ Giovanna Santana; Guilherme Henrique - 2 Jogos
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/86942824-3a04-44af-834f-6fe6e8e58727)
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/5377452b-1e98-4e76-8088-8da514a05fc0)
 
-- Configuramos a fisica
+- Configuramos a fisica utilizando as configurações 
+dynamic friction: 
+Bounciness:
+
 
 ## Adicionando Física - Quarto passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/799b4b50-6b0d-4288-8181-04c6772cf988)
