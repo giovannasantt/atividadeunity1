@@ -58,7 +58,7 @@ Friction Combine:  <BR/>
 
 ## Adicionando Física - Quarto passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/799b4b50-6b0d-4288-8181-04c6772cf988)
-- Adicionando a massa do objeto
+- Adicionando a massa do objeto adicionando um componente no objeto chamado Rigidbody que faz o objeto se mover de acordo das configurações aplicadas anteriormente,
   
 ## Finalizando o Projeto - Gravação chão
 https://github.com/giovannasantt/atividadeunity1/assets/160945639/ded6b041-7017-46f0-b471-69be19e90dc9
