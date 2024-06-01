@@ -24,7 +24,7 @@ Giovanna Santana; Guilherme Henrique - 2 Jogos
 
 ## Criação - terceiro passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/089b41ce-3b75-4f04-b1f9-d0a325daac50)
-- Adicionando os planetas para compor o cenário que pegamos na unity store
+- Adicionando os planetas para compor o cenário que pegamos pronto na unity store 
 
 ## Criação - Quarto passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/0fdad012-ff01-42a6-bc93-5543c5a6effe)
@@ -49,12 +49,11 @@ Giovanna Santana; Guilherme Henrique - 2 Jogos
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/5377452b-1e98-4e76-8088-8da514a05fc0)
 
 - Configuramos a fisica utilizando as configurações: <BR/>
-Dynamic Friction:  <BR/>
-Static Friction:  <BR/>
-Bouncines:  <BR/>
-Bounciness Combine:  <BR/>
-Friction Combine:  <BR/>
-
+Dynamic Friction: A fricção do objeto quando o  outro objeto está em movimento, utilizamos 0.6 para não ficar liso <BR/>
+Static Friction: É a fricção do objeto quando o outro objeto está parado, utilizamos 0.6 para não ser muito liso nem muito aspero <BR/>
+Bouncines: Define o quanto tem de elasticidade no objeto, nesse caso utilizamos para fazer os meteoros pularem. <BR/>
+Friction Combine: É usado para definir o calculo da fricção entre dois objetos, utilizamos o multiply onde ele pega a soma de um dos objetos e multiplica pelo outro.<BR/>
+Bounciness Combine: É o calculo que vai ser utilizando quando o meteoro cair no chão, Nesse caso acabamos utilizando o maximum que pega o maior dos dois objetos e utiliza. <BR/>
 
 ## Adicionando Física - Quarto passo
 ![image](https://github.com/giovannasantt/atividadeunity1/assets/160945639/799b4b50-6b0d-4288-8181-04c6772cf988)
